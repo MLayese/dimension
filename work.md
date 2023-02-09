@@ -6,7 +6,7 @@ image: pic02.jpg
 <section>
   
 <div class="video-size">
-<video autoplay loop controls muted>
+<video>
   <iframe src="https://youtu.be/pkDWpyRfxoo;autoplay=1&mute=1" width = "500" height = "166" frameborder="0" allowfullscreen></iframe>
 </video>
 </div>
