@@ -1,6 +1,6 @@
 ---
 title: about
-image: pic03.jpg
+image: me.gif
 ---
 If architecture is frozen music, then I'm a designer at heart. I want to curate tailored soundscapes that tickle your ear drums in the right way and make sonically appealing pieces of work that anyone could enjoy. I'm a sound designer, musician, and audio programmer. This is me.
 
