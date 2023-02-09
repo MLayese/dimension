@@ -7,7 +7,7 @@ image: pic02.jpg
   
 
 
-  <iframe class="image main" width="520" height="196" src="https://www.youtube.com/embed/pkDWpyRfxoo;autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="196" src="https://www.youtube.com/embed/pkDWpyRfxoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 	<h4>Project: Overdrive</h4>
