@@ -1,6 +1,8 @@
 ---
 title: work
 image: pic02.jpg
+
+image: pic02.jpg
 ---
 <section>
   
