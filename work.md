@@ -5,7 +5,7 @@ image: pic02.jpg
 
 <section>
   
-<div class="video-size">
+<div class="image">
 
   <iframe width="520" height="196" src="https://www.youtube.com/embed/pkDWpyRfxoo;autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
