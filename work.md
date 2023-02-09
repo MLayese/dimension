@@ -22,7 +22,7 @@ title: work
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="196" src="https://youtube.com/embed/watch?v=vYoC3TkA92Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="196" src="https://youtube.com/embed/vYoC3TkA92Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	<h4>AI Synth</h4>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. It functions like a normal synth and can record-enable, so if you're not iinterested in the ML stuff and just want to make tunes go ahead! This is a WIP so I will continually update this. It's also on Github if you ever want to check out the build and tinker with it yourself. Just fork the repository.</blockquote>
 </section>
