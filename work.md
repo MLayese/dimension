@@ -7,7 +7,7 @@ image: pic02.jpg
   
 <div class="video-size">
 
-  <iframe src="https://youtu.be/pkDWpyRfxoo;autoplay=1&mute=1" width = "500" height = "166" frameborder="0" allowfullscreen></iframe>
+  <iframe width="500" height="166" src="https://www.youtube.com/embed/pkDWpyRfxoo;autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 	<h4>Project: Overdrive</h4>
