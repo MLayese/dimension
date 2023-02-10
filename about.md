@@ -11,7 +11,7 @@ In another life, I'd love to travel around the world to find inspiration at the 
 
  
 
-CV available on request. Thanks for reading!
+By the way, check out my <a href="#work">awesome work</a>.
  
 
 Ciao
