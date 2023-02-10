@@ -2,8 +2,12 @@
 title: contact
 ---
 
-Hi! Let's Chat. You can reach me on Instagram, Github, and LinkedIn. 
+Let's hang! You can reach me on Instagram, Github, and LinkedIn. 
+<br>
 My email's also here for those that want it:
+
+<br>
+
 **Anthonylayese1@gmail.com**
 
 <ul class="icons">
