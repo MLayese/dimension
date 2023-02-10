@@ -12,7 +12,7 @@ zip_code: 02115
 country: United States of America
 phone: 
 
-icon: fa-diamond # Font Awesome class for your site's icon
+icon: fa-m # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
