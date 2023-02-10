@@ -30,7 +30,7 @@ title: work
 <section>
   <iframe class="image main" width="520" height="196" src="https://www.youtube.com/embed/6f6COK5uzj0?autoplay=1&mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>Phylo</h4>
-	<blockquote>A day project my friends and I made at MIT using Unity and Wwise. We just had to make a project that could play sounds on collision but we thought it'd be fun to have everything float and be differentiating objects from one another. Created in VR using the XRTK assets for VR integration. The sounds and sound implementation were created by me using a KORG monologue synthesizer.</blockquote>
+	<blockquote>Audio reactive code that responds in accordance to music. Everything made by me.</blockquote>
 </section>
 
 <section>
