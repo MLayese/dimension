@@ -52,7 +52,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&playlist=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&list=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
 	<h4>VRDrumKit</h4>
 	<blockquote>Drum models made in Blender and all the sounds recorded in the Berklee Studios! Scene was loaded in Unity and uses the OVR Oculus Integration kit for VR capabilities. If it wasn't clear, I made everything myself.</blockquote>
 </section>
