@@ -4,7 +4,7 @@ title: Portfolio
 ---
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/pkDWpyRfxoo?mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/pkDWpyRfxoo?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>Project: Overdrive</h4>
 	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
 </section>
@@ -52,7 +52,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&playlist=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
 	<h4>VRDrumKit</h4>
 	<blockquote>Drum models made in Blender and all the sounds recorded in the Berklee Studios! Scene was loaded in Unity and uses the OVR Oculus Integration kit for VR capabilities. If it wasn't clear, I made everything myself.</blockquote>
 </section>
