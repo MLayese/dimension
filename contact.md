@@ -1,5 +1,6 @@
 ---
 title: contact
+image: MyronLayese.gif
 ---
 
 Let's hang! You can reach me on Instagram, Github, and LinkedIn. 
