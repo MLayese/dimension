@@ -40,13 +40,13 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/t1qoXfwXfGs?autoplay=1&mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/t1qoXfwXfGs?mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
 	<h4>StageFright</h4>
 	<blockquote>VR application I built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. This project also has funding from OZY media and AT&T so hopefully it goes summer in the future! NOTE: Also still a work in progress and I'm currently using it for research at the MIT Immersion Lab! Really neat stuff that I'll continue to update.</blockquote>
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/K5nTx8JoDIo?autoplay=1&mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/K5nTx8JoDIo?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>BreakOut</h4>
 	<blockquote>Made a simple Breakout Game in Wwise and Unity to study game development and audio implementation. Objects are "tagged" and whenever the ball is hits a tagged object a random container associated with the tag will play a sound. Also the music is assigned to Pitch float value that decreases everytime you lose a life.</blockquote>
 </section>
