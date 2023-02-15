@@ -40,7 +40,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/t1qoXfwXfGs?mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/t1qoXfwXfGs?autoplay=1&mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
 	<h4>StageFright</h4>
 	<blockquote>VR application I built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. This project also has funding from OZY media and AT&T so hopefully it goes summer in the future! NOTE: Also still a work in progress and I'm currently using it for research at the MIT Immersion Lab! Really neat stuff that I'll continue to update.</blockquote>
 </section>
@@ -52,7 +52,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&list=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&playlist=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
 	<h4>VRDrumKit</h4>
 	<blockquote>Drum models made in Blender and all the sounds recorded in the Berklee Studios! Scene was loaded in Unity and uses the OVR Oculus Integration kit for VR capabilities. If it wasn't clear, I made everything myself.</blockquote>
 </section>
