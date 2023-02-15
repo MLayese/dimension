@@ -10,7 +10,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/pbrcPTBrKJo?mute=1&loop=10" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/8J3QRPrp_X4" frameborder="0" allowfullscreen></iframe>
 	<h4>2023 Riot Games Sound Design Test</h4>
 	<blockquote>The test I had to take for my internship at Riot Games. Features sound redesigns for Azir and Lux. </blockquote>
 </section>
@@ -46,13 +46,13 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/K5nTx8JoDIo?autoplay=1&mute=1&loop=1&playlist=K5nTx8JoDIo" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/K5nTx8JoDIo?autoplay=1&mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>BreakOut</h4>
 	<blockquote>Made a simple Breakout Game in Wwise and Unity to study game development and audio implementation. Objects are "tagged" and whenever the ball is hits a tagged object a random container associated with the tag will play a sound. Also the music is assigned to Pitch float value that decreases everytime you lose a life.</blockquote>
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?autoplay=1&mute=1&loop=1&playlist=lCQnDT3WPHU" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/lCQnDT3WPHU?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>VRDrumKit</h4>
 	<blockquote>Drum models made in Blender and all the sounds recorded in the Berklee Studios! Scene was loaded in Unity and uses the OVR Oculus Integration kit for VR capabilities. If it wasn't clear, I made everything myself.</blockquote>
 </section>
