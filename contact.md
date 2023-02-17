@@ -7,7 +7,6 @@ Let's hang! You can reach me on Instagram, Github, and LinkedIn.
 <br>
 My email's also here for those that want it:
 
-<br>
 
 <a href = "mailto: Anthonylayese1@gmail.com">Come say howdy</a>
 
