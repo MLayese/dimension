@@ -18,7 +18,7 @@ title: Portfolio
 <section>
   <iframe class="image main" width="520" height="300" src="https://youtube.com/embed/rYiPAh2-VpY?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>3D Game Kit</h4>
-	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only cpvers Level 1 of the game but more will be released soon. If anyone is interested I also have a README.md file that goes into more detail of all the sounds and scripts I wrote. </blockquote>
+	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only cpvers Level 1 of the game but more will be released soon. If anyone is interested I also have a <a href="https://github.com/MLayese/MTEC-421">README.md</a> file that goes into more detail of all the sounds and scripts I wrote. </blockquote>
 </section>
 
 <section>
