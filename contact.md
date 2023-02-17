@@ -9,7 +9,7 @@ My email's also here for those that want it:
 
 <br>
 
-**Anthonylayese1@gmail.com**
+<a href = "mailto: Anthonylayese1@gmail.com">Come say howdy</a>
 
 <ul class="icons">
 
