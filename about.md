@@ -9,3 +9,13 @@ I'm currently pursuing a dual degree at Harvard and Berklee, studying Computer S
 By the way, check out my <a href="#Portfolio">work</a> and see my <a href="#Reel"> reel</a>!
  
 Ciao
+
+
+###What I'm playing now###
+For Honor
+<br>
+Fez
+<br>
+Deep Rock Galactic
+<br>
+Warframe
