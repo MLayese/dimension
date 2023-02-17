@@ -60,6 +60,6 @@ title: Portfolio
 <section>
   <iframe class="image main" width="520" height="300" src="https://scratch.mit.edu/projects/484757186/embed" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
 	<h4>Scott Pilgrim vs Some Pigs!</h4>
-	<blockquote>Wow! You made it to the bottom of the page. What a superstar. This project was endearingly made in scratch back in 2021. If you want to see the code for everything please click [here](https://scratch.mit.edu/projects/484757186/editor/). </blockquote>
+	<blockquote>Wow! You made it to the bottom of the page. What a superstar. This project was endearingly made in scratch back in 2021. If you want to see the code for everything please click <a href="https://scratch.mit.edu/projects/484757186/editor/">here</a>. </blockquote>
 </section>
 
