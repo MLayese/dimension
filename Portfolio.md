@@ -2,7 +2,7 @@
 title: Portfolio
 
 ---
-<section class="wrapper style1 align-center">
+<section class="wrapper style1 align-left">
 						<div class="left">
 							
 							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
@@ -10,107 +10,9 @@ title: Portfolio
 							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
 						</div>
 
-										<!-- Gallery -->
-							<div class="gallery style2 medium lightbox onscroll-fade-in">
-								<article>
-									<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" class="image">
-										<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" class="image">
-										<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_2028.jpg" class="image">
-										<img src="images/headshots/fulls/IMG_2028.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_5912.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_5912.JPG" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_6653.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_6653.JPG" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_7164.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_7164.JPG" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_9472.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_9472.JPG" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/headshots/fulls/IMG_9614.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_9614.JPG" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Title</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-							</div>
+										
 
-					</section>
+</section>
 <section>
   <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/pkDWpyRfxoo?mute=1&loop=1" frameborder="0" allowfullscreen></iframe>
 	<h4>Project: Overdrive</h4>
