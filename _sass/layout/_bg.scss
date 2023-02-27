@@ -33,6 +33,9 @@
 									url('../../assets/images/overlay.png');
 			background-size:		auto,
 									256px 256px;
+			filter: blur(8px);
+  			-webkit-filter: blur(8px);
+	
 			background-position:	center,
 									center;
 			background-repeat:		no-repeat,
