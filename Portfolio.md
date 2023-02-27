@@ -4,10 +4,13 @@ title: Portfolio
 ---
 <section class="wrapper style1 align-left">
 						<div class="left">
+							<ul class="alt">
+								<li><a href="#redesigns" class="button">REDESIGNS</a></li>
+								<li><a href="#personalprojects" class="button">PROJECTS</a></li>
+								<li><a href="#redesigns" class="button">REDESIGNS</a></li>
+							</ul>
 							
-							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
-							<p><a href="#personalprojects" class="button">PROJECTS</a>.</p>
-							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
+							
 						</div>
 
 										
