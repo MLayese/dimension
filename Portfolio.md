@@ -3,9 +3,11 @@ title: Portfolio
 
 ---
 <section class="wrapper style1 align-center">
-						<div class="inner">
-							<h2>Gallery</h2>
-							<p><a href="#reference-gallery" class="button">Full Portfolio</a>.</p>
+						<div class="left">
+							
+							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
+							<p><a href="#personalprojects" class="button">PROJECTS</a>.</p>
+							<p><a href="#redesigns" class="button">REDESIGNS</a>.</p>
 						</div>
 
 										<!-- Gallery -->
