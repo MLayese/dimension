@@ -11,8 +11,8 @@ title: Portfolio
 										<!-- Gallery -->
 							<div class="gallery style2 medium lightbox onscroll-fade-in">
 								<article>
-									<a href="images/headshots/fulls/IMG_0014.JPG" class="image">
-										<img src="images/headshots/fulls/IMG_0014.JPG" alt="" />
+									<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" class="image">
+										<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" alt="" />
 									</a>
 									<div class="caption">
 										<h3>Title</h3>
@@ -23,8 +23,8 @@ title: Portfolio
 									</div>
 								</article>
 								<article>
-									<a href="images/headshots/fulls/IMG_1867.jpg" class="image">
-										<img src="images/headshots/fulls/IMG_1867.jpg" alt="" />
+									<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" class="image">
+										<src="https://www.youtube.com/embed/6f6COK5uzj0?mute=1&loop=10" alt="" />
 									</a>
 									<div class="caption">
 										<h3>Title</h3>
