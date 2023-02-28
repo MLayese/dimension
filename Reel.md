@@ -141,7 +141,8 @@ content: '';
 
 .panel {
   padding: 0 18px;
-  background-color: _palette(border-bg);
+  background-color: transparent;
+<!-- 	_palette(border-bg) -->
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
