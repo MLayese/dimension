@@ -24,7 +24,7 @@ title: Reel
 		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
 		background-color: transparent;
-		border-radius: _size(border-radius);
+		border-radius: transparent(border-radius);
 		border: 0;
 		box-shadow: inset 0 0 0 _size(border-width) transparent(border);
 		color: _palette(fg-bold) !important;
