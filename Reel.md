@@ -105,7 +105,8 @@ title: Reel
 		border-radius: transparent(border-radius);
 		border: 0;
 		box-shadow: inset 0 0 0 _size(border-width) transparent(border);
-		color: _palette(fg-bold) !important;
+		color: transparent; 
+<!-- 		//_palette(fg-bold) !important -->
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8rem;
@@ -136,10 +137,7 @@ content: '';
 
 .accordion:hover:before {
   width: 100%;
-  left: 100%;
-  right: 100%;
-  
-  padding: 100%;
+  padding: 0;
 }
 
 .panel {
