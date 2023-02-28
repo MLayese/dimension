@@ -20,7 +20,7 @@ title: Portfolio
 <ul class="alt">
 <li>PROJECT OVERDRIVE</li>					
 </ul>
-  <iframe class="image main" width="520" height="300" source src="dimension/assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 	
 	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
 </section>
@@ -80,7 +80,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://scratch.mit.edu/projects/484757186/" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://scratch.mit.edu/projects/484757186/embed" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
 	<h4>Scott Pilgrim vs Some Pigs!</h4>
 	<blockquote>Wow! You made it to the bottom of the page. What a superstar. This project was endearingly made in scratch back in 2021. Green Flag to start.
 		<br>
