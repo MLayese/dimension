@@ -71,7 +71,7 @@ title: Portfolio
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" source src="https://scratch.mit.edu/projects/484757186" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://scratch.mit.edu/projects/484757186/" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
 	<h4>Scott Pilgrim vs Some Pigs!</h4>
 	<blockquote>Wow! You made it to the bottom of the page. What a superstar. This project was endearingly made in scratch back in 2021. Green Flag to start.
 		<br>
