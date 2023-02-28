@@ -7,7 +7,7 @@ title: Portfolio
 							<ul class="alt">
 								<li><a href="#redesigns">REDESIGNS</a></li>
 								<li><a href="#personalprojects">PROJECTS</a></li>
-								<li><a href="#redesigns">REDESIGNS</a></li>
+								
 							</ul>
 							
 							
