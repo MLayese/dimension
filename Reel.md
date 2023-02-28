@@ -136,7 +136,10 @@ content: '';
 
 .accordion:hover:before {
   width: 100%;
-  padding: 0;
+  left: 100%;
+  right: 100%;
+  margin: 100% auto;
+  padding: 100%;
 }
 
 .panel {
