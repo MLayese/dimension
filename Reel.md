@@ -138,7 +138,7 @@ content: '';
   width: 100%;
   left: 100%;
   right: 100%;
-  margin: 100% auto;
+  
   padding: 100%;
 }
 
