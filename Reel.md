@@ -87,12 +87,12 @@ title: Reel
 	}
 
 .active, .accordion:hover {
-  background-color: #ccc;
+  background-color: transparent;
 }
 
 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: transparent;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
