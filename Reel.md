@@ -15,7 +15,6 @@ title: Reel
 	<h4>Sound Design Reel 2023</h4> 
 </section>
 </div> -->
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,8 +103,8 @@ title: Reel
 		background-color: transparent;
 		border-radius: transparent(border-radius);
 		border: 0;
-		box-shadow: inset 0 0 0 _size(border-width) transparent(border);
-		color: transparent; 
+		box-shadow: inset 0 0 0 transparent(border-width) transparent(border);
+		color: _palette(fg-bold) !important; 
 <!-- 		//_palette(fg-bold) !important -->
 		cursor: pointer;
 		display: inline-block;
