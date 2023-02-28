@@ -26,7 +26,7 @@ title: Reel
 		background-color: transparent;
 		border-radius: _size(border-radius);
 		border: 0;
-		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
+		box-shadow: inset 0 0 0 _size(border-width) transparent(border);
 		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
