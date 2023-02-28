@@ -15,12 +15,13 @@ title: Portfolio
 
 										
 
-</section>
+<!-- </section> -->
+
 <section>
 <ul class="alt">
 <li>PROJECT OVERDRIVE</li>					
 </ul>
-  <iframe class="image main" width="520" height="300" source src="assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+  <video controls muted class="image main" width="520" height="300" source src="assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	
 	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
 </section>
@@ -29,7 +30,7 @@ title: Portfolio
 <ul class="alt">
 <li>Riot Games Sound Test</li>					
 </ul>
-  <iframe class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+  <video controls muted class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<blockquote>The test I had to take for my internship at Riot Games. Features sound redesigns for Azir and Lux. </blockquote>
 </section>
 
@@ -37,7 +38,7 @@ title: Portfolio
 	<ul class="alt">
 <li>3D GameKit</li>					
 </ul>
-  <iframe class="image main" width="520" height="300" source src="assets/images/3D Game Kit v2.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+  <video controls muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit v2.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only cpvers Level 1 of the game but more will be released soon. If anyone is interested I also have a <a href="https://github.com/MLayese/MTEC-421">README.md</a> file that goes into more detail of all the sounds and scripts I wrote. </blockquote>
 </section>
 
