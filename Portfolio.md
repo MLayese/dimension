@@ -5,9 +5,9 @@ title: Portfolio
 <section class="wrapper style1 align-left">
 						<div class="left">
 							<ul class="alt">
-								<li><a href="#redesigns" class="button">REDESIGNS</a></li>
-								<li><a href="#personalprojects" class="button">PROJECTS</a></li>
-								<li><a href="#redesigns" class="button">REDESIGNS</a></li>
+								<li><a href="#redesigns">REDESIGNS</a></li>
+								<li><a href="#personalprojects">PROJECTS</a></li>
+								<li><a href="#redesigns">REDESIGNS</a></li>
 							</ul>
 							
 							
