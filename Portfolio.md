@@ -2,7 +2,7 @@
 title: Portfolio
 
 ---
-<section class="wrapper style1 align-left">
+<!-- <section class="wrapper style1 align-left">
 						<div class="left">
 							<ul class="alt">
 								<a href="#redesigns">REDESIGNS</a>
@@ -11,7 +11,7 @@ title: Portfolio
 							</ul>
 							
 							
-						</div>
+						</div> -->
 
 										
 
