@@ -17,26 +17,35 @@ title: Portfolio
 
 </section>
 <section>
-  <iframe class="image main" width="520" height="300" source src="/assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
-	<h4>Project: Overdrive</h4>
+<ul class="alt">
+<li>PROJECT OVERDRIVE</li>					
+</ul>
+  <iframe class="image main" width="520" height="300" source src="dimension/assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+	
 	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
 </section>
 
 <section>
+<ul class="alt">
+<li>Riot Games Sound Test</li>					
+</ul>
   <iframe class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
-	<h4>2023 Riot Games Sound Design Test</h4>
 	<blockquote>The test I had to take for my internship at Riot Games. Features sound redesigns for Azir and Lux. </blockquote>
 </section>
 
 <section>
+	<ul class="alt">
+<li>3D GameKit</li>					
+</ul>
   <iframe class="image main" width="520" height="300" source src="assets/images/3D Game Kit v2.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
-	<h4>3D Game Kit</h4>
 	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only cpvers Level 1 of the game but more will be released soon. If anyone is interested I also have a <a href="https://github.com/MLayese/MTEC-421">README.md</a> file that goes into more detail of all the sounds and scripts I wrote. </blockquote>
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
-	<h4>AI Synth</h4>
+<ul class="alt">
+<li>AI Synth</li>		
+	
+</ul>  <iframe class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. It functions like a normal synth and can record-enable, so if you're not iinterested in the ML stuff and just want to make tunes go ahead! This is a WIP so I will continually update this. It's also on Github if you ever want to check out the build and tinker with it yourself. Just fork the repository.</blockquote>
 </section>
 
