@@ -4,7 +4,7 @@ title: Portfolio
 ---
 <section class="wrapper style1 align-left">
 						<div class="left">
-							<ul class="button">
+							<ul class="alt">
 								<a href="#redesigns">REDESIGNS</a>
 								<a href="#personalprojects">PROJECTS</a>
 								
@@ -20,7 +20,7 @@ title: Portfolio
 <ul class="alt">
 <li>PROJECT OVERDRIVE</li>					
 </ul>
-  <iframe class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" source src="assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 	
 	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
 </section>
