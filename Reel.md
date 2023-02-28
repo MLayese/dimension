@@ -89,7 +89,7 @@ title: Reel
 .active, .accordion:hover {
   background-color: _palette(border-bg);
 } -->
-	.accordion {
+.accordion {
   		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
         background: transparent;
