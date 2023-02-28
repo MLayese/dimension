@@ -1,4 +1,3 @@
 ---
-title: about
-image: me.gif
+layout: gallery
 ---
