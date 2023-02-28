@@ -20,7 +20,7 @@ title: Reel
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.accordion {
+<!-- .accordion {
 		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
 		background-color: transparent;
@@ -88,6 +88,55 @@ title: Reel
 
 .active, .accordion:hover {
   background-color: _palette(border-bg);
+} -->
+	.accordion {
+  		@include vendor('appearance', 'none');
+		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
+        background: transparent;
+  border: none;
+  margin: 10px auto 0;
+  display: block;
+  font-size: 20px;
+  outline: none;
+  position: relative;
+  transition: 0.3s;
+  padding: 10px;
+		background-color: transparent;
+		border-radius: _size(border-radius);
+		border: 0;
+		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
+		color: _palette(fg-bold) !important;
+		cursor: pointer;
+		display: inline-block;
+		font-size: 0.8rem;
+		font-weight: _font(weight);
+		height: _size(element-height);
+		letter-spacing: _font(letter-spacing);
+		line-height: _size(element-height);
+		outline: 0;
+		padding: 0 1.25rem 0 (1.25rem + (_font(letter-spacing) * 0.5));
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+}
+
+.accordion:before{
+content: '';
+  border-bottom: 1px solid #000;
+  padding: 0 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 0;
+  transition: 0.3s;
+}
+
+.accordion:hover:before {
+  width: 100%;
+  padding: 0;
 }
 
 .panel {
