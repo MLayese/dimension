@@ -56,7 +56,7 @@ title: Portfolio
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StageFright.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>StageFright</h4>
+	<h4><a href="#stagefright">StageFright</h4>
 	<blockquote>VR application I built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. This project also has funding from OZY media and AT&T so hopefully it goes summer in the future! NOTE: Also still a work in progress and I'm currently using it for research at the MIT Immersion Lab! Really neat stuff that I'll continue to update.</blockquote>
 </section>
 
