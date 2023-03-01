@@ -14,11 +14,11 @@ image: header.png
 </section>
 
 <section>
-  <class="image main" width="520" height="300" img src="assets/images/Screen Shot 2023-03-01 at 4.32.14 PM.png" alt="" frameborder="0" allowfullscreen>
+  <img class="image main" src="assets/images/Screen Shot 2023-03-01 at 4.32.14 PM.png" alt="" frameborder="0" allowfullscreen>
 </section>
   
 <section>
-  <class="image main" width="520" height="300" img src="assets/images/Screen Shot 2023-03-01 at 4.00.41 PM.png" alt="" frameborder="0" allowfullscreen>
+  <img class="image main" src="assets/images/Screen Shot 2023-03-01 at 4.00.41 PM.png" alt="" frameborder="0" allowfullscreen>
 </section>
 
   
