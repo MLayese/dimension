@@ -105,7 +105,7 @@ title: Reel
 		border: 0;
 		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
 		color: _palette(fg-bold) !important; 
-<!-- 		//_palette(fg-bold) !important -->
+	//_palette(fg-bold) !important 
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8rem;
