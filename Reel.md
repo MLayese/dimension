@@ -34,7 +34,8 @@ title: Reel
 		background-color: transparent;
 		border-radius: _size(border-radius);
 		border: 0;
-		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
+		
+<!-- 	box-shadow: inset 0 0 0 _size(border-width) _palette(border); -->
 		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
@@ -75,7 +76,7 @@ content: '';
 
 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: transparent;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -84,26 +85,13 @@ content: '';
 </head>
 <body>
 
-<h2>Animated Accordion</h2>
-<p>Click on the buttons to open the collapsible content.</p>
-
-<button class="accordion">Section 1</button>
+<button class="accordion">Reel</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   <section>
   <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/SC0Ub0Q9SoM" frameborder="0" allowfullscreen></iframe>
 	<h4>Sound Design Reel 2023</h4> 
 </section>
-</div>
-
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
 <script>
