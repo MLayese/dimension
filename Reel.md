@@ -85,7 +85,7 @@ title: Reel
 </head>
 <body>
 
-<button class="accordion">Section 1</button>
+<button class="accordion">Reel</button>
 <div class="panel">
 <br>
   <section>
