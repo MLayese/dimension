@@ -1,7 +1,7 @@
 # Site settings
 title: My Oh My 
 email: Anthonylayese1@gmail.com
-description: Hiya, I'm Myron and this is my work. <br />Curating sights and sounds for those that care to listen. <br> <a href="#Reel">This is what you're here for, right?</a>.
+description: I'm Myron and this is my work. <br />Curating sights and sounds for those that care to listen. <br> <a href="#Reel">This is what you're here for, right?</a>.
 baseurl: # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:
