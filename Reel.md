@@ -72,10 +72,11 @@ title: Reel
 .active, .accordion:hover {
   background-color: #ccc;
 }
+	
 
 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: transparent;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -83,9 +84,6 @@ title: Reel
 </style>
 </head>
 <body>
-
-<h2>Animated Accordion</h2>
-<p>Click on the buttons to open the collapsible content.</p>
 
 <button class="accordion">Section 1</button>
 <div class="panel">
