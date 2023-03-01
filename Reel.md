@@ -103,7 +103,7 @@ title: Reel
 		background-color: transparent;
 		border-radius: transparent(border-radius);
 		border: 0;
-		box-shadow: inset 0 0 0 transparent(border-width) transparent(border);
+		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
 		color: _palette(fg-bold) !important; 
 <!-- 		//_palette(fg-bold) !important -->
 		cursor: pointer;
