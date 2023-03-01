@@ -6,7 +6,6 @@ image: header.png
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StageFright.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>StageFright</h4>
 </section>
 
 <section>
