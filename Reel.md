@@ -20,7 +20,7 @@ title: Reel
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
-  		@include vendor('appearance', 'none');
+	@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
         background: transparent;
   border: none;
@@ -35,7 +35,7 @@ title: Reel
 		border-radius: _size(border-radius);
 		border: 0;
 		
-<!-- 	box-shadow: inset 0 0 0 _size(border-width) _palette(border); -->
+		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
 		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
@@ -53,7 +53,7 @@ title: Reel
 }
 
 .accordion:before{
-content: '';
+  content: '';
   border-bottom: 1px solid #000;
   padding: 0 10px;
   position: absolute;
@@ -69,14 +69,13 @@ content: '';
   width: 100%;
   padding: 0;
 }
-
 .active, .accordion:hover {
-  background-color: transparent;
+  background-color: #ccc;
 }
 
 .panel {
   padding: 0 18px;
-  background-color: transparent;
+  background-color: white;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -85,14 +84,18 @@ content: '';
 </head>
 <body>
 
-<button class="accordion">Reel</button>
+<h2>Animated Accordion</h2>
+<p>Click on the buttons to open the collapsible content.</p>
+
+<button class="accordion">Section 1</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<br>
   <section>
   <iframe class="image main" width="520" height="300" src="https://www.youtube.com/embed/SC0Ub0Q9SoM" frameborder="0" allowfullscreen></iframe>
 	<h4>Sound Design Reel 2023</h4> 
 </section>
 </div>
+
 
 <script>
 var acc = document.getElementsByClassName("accordion");
