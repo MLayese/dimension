@@ -20,7 +20,7 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StageFright.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4><a href="#stagefright">StageFright</a></h4>
-	<blockquote>VR application I built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. This project also has funding from OZY media and AT&T so hopefully it goes summer in the future! NOTE: Also still a work in progress and I'm currently using it for research at the MIT Immersion Lab! Really neat stuff that I'll continue to update.</blockquote>
+	<blockquote>VR application built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. NOTE:Still a work in progress, currently using it for research at the MIT Immersion Lab.</blockquote>
 </section>
 
 <section>
@@ -60,6 +60,18 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Riot Games Sound Test</h4>
 	<blockquote>The test I had to take for my internship at Riot Games. Features sound redesigns for Azir and Lux. </blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Mulan Redesign.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Mulan</h4>
+	<blockquote>Linear Redesign for one of the fight scenes. Mixed in 5.1 </blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/MaxAmbiance.mov" type="video/mov" frameborder="0" allowfullscreen></video>
+	<h4>AmbientSounds</h4>
+	<blockquote> Max MSP patch made for ambience generation with auto panner. </blockquote>
 </section>
 
 <section>
