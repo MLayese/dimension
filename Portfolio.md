@@ -39,14 +39,15 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>AI Synth</h4>
-	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. It functions like a normal synth and can record-enable, so if you're not iinterested in the ML stuff and just want to make tunes go ahead! This is a WIP so I will continually update this. It's also on Github if you ever want to check out the build and tinker with it yourself. Just fork the repository.</blockquote>
-
+	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. It functions like a normal synth and can record-enable, so if you're not iinterested in the ML stuff and just want to make tunes go ahead! This is a WIP so I will continually update this. It's also on Github if you ever want to check out the build and tinker with it yourself. Just fork the repository.
+	</blockquote>
 </section>
 
 <section>
  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Phylo.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Phylo</h4>
-	<blockquote>Audio reactive code that responds in accordance to music. Everything made by me.</blockquote>
+	<blockquote>Audio reactive code that responds in accordance to music. Everything made by me.
+	</blockquote>
 </section>
 
 <section>
