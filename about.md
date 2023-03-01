@@ -13,7 +13,8 @@ I'm Myron, a sound enthusiast. My craft centers around the relations of digital 
 
 I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
 
-<h5 class="major">Contact</h4><br>
+<h5 class="major">Games I like</h5>
+<br>
 For Honor
 <br>
 Fez
@@ -28,13 +29,10 @@ Dead Space
 
 Let's hang! You can reach me on Instagram, Github, and LinkedIn. 
 <br>
-My email's also here for those that want it:
-
-
-<a href = "mailto: Anthonylayese1@gmail.com">Come say howdy</a>
-
-
-
+My email's also here for those that want it; Come say hello
+<br>
+<a href = "mailto: Anthonylayese1@gmail.com">Anthonylayese1@gmail.com</a>
+<br>
 <a href="#Portfolio">Work</a> and <a href="#Reel"> reel</a>
 <ul class="icons">
 
