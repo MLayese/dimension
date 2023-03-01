@@ -19,7 +19,7 @@ title: Reel
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<!-- .accordion {
+.accordion {
 		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
 		background-color: transparent;
@@ -87,8 +87,8 @@ title: Reel
 
 .active, .accordion:hover {
   background-color: _palette(border-bg);
-} -->
-.accordion {
+}
+<!-- .accordion {
   		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
         background: transparent;
@@ -137,7 +137,7 @@ content: '';
 .accordion:hover:before {
   width: 100%;
   padding: 0;
-}
+} -->
 
 .panel {
   padding: 0 18px;
