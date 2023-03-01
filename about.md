@@ -32,6 +32,7 @@ My email's also here for those that want it; Come say hello
 <br>
 <a href = "mailto: Anthonylayese1@gmail.com">Anthonylayese1@gmail.com</a>
 <br>
+<br>
 <a href="#Portfolio">Work</a> and <a href="#Reel"> reel</a>
 <ul class="icons">
 
