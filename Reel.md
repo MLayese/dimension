@@ -15,7 +15,6 @@ title: Reel
 	<h4>Sound Design Reel 2023</h4> 
 </section>
 </div> -->
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
