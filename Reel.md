@@ -1,5 +1,5 @@
 ---
-title: Sound Reel
+title: Reel
 ---
 
 <section>
