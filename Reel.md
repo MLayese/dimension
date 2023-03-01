@@ -20,75 +20,6 @@ title: Reel
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
-		@include vendor('appearance', 'none');
-		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
-		background-color: transparent;
-		border-radius: transparent(border-radius);
-		border: 0;
-		box-shadow: inset 0 0 0 _size(border-width) transparent(border);
-		color: _palette(fg-bold) !important;
-		cursor: pointer;
-		display: inline-block;
-		font-size: 0.8rem;
-		font-weight: _font(weight);
-		height: _size(element-height);
-		letter-spacing: _font(letter-spacing);
-		line-height: _size(element-height);
-		outline: 0;
-		padding: 0 1.25rem 0 (1.25rem + (_font(letter-spacing) * 0.5));
-		text-align: center;
-		text-decoration: none;
-		text-transform: uppercase;
-		white-space: nowrap;
-
-		&:hover {
-			background-color: _palette(border-bg);
-		}
-
-		&:active {
-			background-color: _palette(border-bg-alt);
-		}
-
-		&.icon {
-			&:before {
-				margin-right: 0.5em;
-			}
-		}
-
-		&.fit {
-			width: 100%;
-		}
-
-		&.small {
-			font-size: 0.6rem;
-			height: (_size(element-height) * 0.75);
-			line-height: (_size(element-height) * 0.75);
-		}
-
-		&.primary {
-			background-color: _palette(fg-bold);
-			color: _palette(bg) !important;
-			font-weight: _font(weight-bold);
-
-			&:hover {
-			}
-
-			&:active {
-			}
-		}
-
-		&.disabled,
-		&:disabled {
-			@include vendor('pointer-events', 'none');
-			cursor: default;
-			opacity: 0.25;
-		}
-	}
-
-.active, .accordion:hover {
-  background-color: _palette(border-bg);
-}
-<!-- .accordion {
   		@include vendor('appearance', 'none');
 		@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out, color #{_duration(transition)} ease-in-out');
         background: transparent;
@@ -101,11 +32,10 @@ title: Reel
   transition: 0.3s;
   padding: 10px;
 		background-color: transparent;
-		border-radius: transparent(border-radius);
+		border-radius: _size(border-radius);
 		border: 0;
 		box-shadow: inset 0 0 0 _size(border-width) _palette(border);
-		color: _palette(fg-bold) !important; 
-	//_palette(fg-bold) !important 
+		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8rem;
@@ -137,12 +67,15 @@ content: '';
 .accordion:hover:before {
   width: 100%;
   padding: 0;
-} -->
+}
+
+.active, .accordion:hover {
+  background-color: transparent;
+}
 
 .panel {
   padding: 0 18px;
-  background-color: _palette(border-bg);
-<!-- 	_palette(border-bg) -->
+  background-color: white;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -151,7 +84,10 @@ content: '';
 </head>
 <body>
 
-<button class="accordion">Test</button>
+<h2>Animated Accordion</h2>
+<p>Click on the buttons to open the collapsible content.</p>
+
+<button class="accordion">Section 1</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   <section>
