@@ -18,6 +18,6 @@ title: gamekit
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" source src="https://github.com/MLayese/MTEC-421" frameborder="0" allowfullscreen></iframe>
+  <iframe class="image main" width="520" height="300" src="https://github.com/MLayese/MTEC-421" frameborder="0" allowfullscreen></iframe>
 	<h4>ReadMe</h4>
 </section>
