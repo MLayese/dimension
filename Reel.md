@@ -38,15 +38,9 @@ title: Reel
 }
 
 .accordion:after {
-  content: '\002B';
-  color: #eee;
   font-weight: bold;
   float: right;
   margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
 }
 
 .panel {
