@@ -11,15 +11,14 @@ image: header.png
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Stagefright Stuff.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>StageFright</h4>
 </section>
 
 <section>
-  <class="image main" width="520" height="300" imag src="assets/images/Screen Shot 2023-03-01 at 4.32.14 PM.png" frameborder="0" allowfullscreen>
+  <class="image main" width="520" height="300" img src="assets/images/Screen Shot 2023-03-01 at 4.32.14 PM.png" frameborder="0" allowfullscreen>
 </section>
   
 <section>
-  <class="image main" width="520" height="300" imag src="assets/images/Screen Shot 2023-03-01 at 4.00.41 PM.png" frameborder="0" allowfullscreen>
+  <class="image main" width="520" height="300" img src="assets/images/Screen Shot 2023-03-01 at 4.00.41 PM.png" frameborder="0" allowfullscreen>
 </section>
 
   
