@@ -18,6 +18,5 @@ title: gamekit
 </section>
 
 <section>
-  <iframe class="image main" width="520" height="300" src="https://github.com/MLayese/MTEC-421" frameborder="0" allowfullscreen></iframe>
 	<h4><a href="https://github.com/MLayese/MTEC-421">ReadMe</a></h4>
 </section>
