@@ -38,7 +38,7 @@ title: Portfolio
 </section>
 
 <section>
-  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Loopmasta.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4><a href="#DreamMachine">Dream Machine</a></h4>
 	<blockquote>VR Concert Space made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
 	</blockquote>
