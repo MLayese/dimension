@@ -141,7 +141,7 @@ content: '';
 
 .panel {
   padding: 0 18px;
-  background-color: transparent;
+  background-color: _palette(border-bg);
 <!-- 	_palette(border-bg) -->
   max-height: 0;
   overflow: hidden;
