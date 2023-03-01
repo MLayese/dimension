@@ -19,43 +19,33 @@ title: Portfolio
 
 <section>
   <video controls muted class="image main" width="520" height="300" source src="assets/images/PROJECT OVERDRIVE.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<ul class="alt">
-<li>PROJECT OVERDRIVE</li>					
-	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>
-		</ul>
+	<h4>Project: Overdrive</h4>					
+	<blockquote>Linear Sound Redesign for the League of Legends Trailer PROJECT: OVERDRIVE. This was the first project we had to in school for sound designs and I thought it was really cool! I chose this scene particularly because during that "glitch" sequence i thought to myself "Huh, there can be a lot of cool sounds for this." I hope I delievered! Recorded all of the SFX ('cept the the gun and shuriken sounds) on a Zoom microphone!</blockquote>	
 </section>
 
 <section>
   <video controls muted class="image main" width="520" height="300" source src="assets/images/League Sound Design Test 2023.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<ul class="alt">
-	<li>Riot Games Sound Test<li>
+	<h4>Riot Games Sound Test</h4>
 	<blockquote>The test I had to take for my internship at Riot Games. Features sound redesigns for Azir and Lux. </blockquote>
-	</ul>
 </section>
 
 <section>
-	
   <video controls muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit v2.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<ul class="alt">
-		<li>3D Game Kit<li>
+	<h4>3D Game Kit</h4>
 	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only cpvers Level 1 of the game but more will be released soon. If anyone is interested I also have a <a href="https://github.com/MLayese/MTEC-421">README.md</a> file that goes into more detail of all the sounds and scripts I wrote. </blockquote>
-	</ul>
 </section>
 
 <section>
   <video controls muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<ul class="alt">
-		<li>AI Synth<li>
+	<h4>AI Synth</h4>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. It functions like a normal synth and can record-enable, so if you're not iinterested in the ML stuff and just want to make tunes go ahead! This is a WIP so I will continually update this. It's also on Github if you ever want to check out the build and tinker with it yourself. Just fork the repository.</blockquote>
-		</ul>
+
 </section>
 
 <section>
  <video controls muted class="image main" width="520" height="300" source src="assets/images/Phylo.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<ul class="alt">
-		<li>Phylo<li>
+	<h4>Phylo</h4>
 	<blockquote>Audio reactive code that responds in accordance to music. Everything made by me.</blockquote>
-			</ul>
 </section>
 
 <section>
