@@ -14,7 +14,6 @@ I'm Myron, a sound enthusiast. My craft centers around the relations of digital 
 I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
 
 <h5 class="major">Games I like</h5>
-<br>
 For Honor
 <br>
 Fez
