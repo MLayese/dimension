@@ -18,6 +18,6 @@ title: gamekit
 </section>
 
 <section>
-  <video controls autoplay loop muted class="image main" width="520" height="300" source src="https://github.com/MLayese/MTEC-421" type="video/mp4" frameborder="0" allowfullscreen></video>
+  <iframe class="image main" width="520" height="300" source src="https://github.com/MLayese/MTEC-421" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 	<h4>ReadMe</h4>
 </section>
