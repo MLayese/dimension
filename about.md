@@ -5,7 +5,7 @@ image: me.gif
 
 <h4 class="major">Shorter</h4>
 
-**Myron Layese**, sound designer, programmer, and musican
+**Myron Layese**, sound designer, programmer, and musician
 
 <h4 class="major">Longer</h4>
 
@@ -13,7 +13,7 @@ I'm Myron, a sound enthusiast. My craft centers around the relations of digital 
 
 I grew up partially blind, so a lot of my early life **was** just noise and shadows. The lack of visuals however wasn't an impairment but rather a medium for creativity. I filled in the gaps, using sounds and tactile sensations as my muse. 
 
-Now, I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. I refined my pallete for sound design here, working within the VR scene. I found myself at home. The virtual world was closer to my childhood reality than reality itself.
+Now, I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. I refined my palate for sound design here, working within the VR scene. I found myself at home. The virtual world was closer to my childhood reality than reality itself.
 
 Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
 
