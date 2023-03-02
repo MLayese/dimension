@@ -21,3 +21,5 @@ title: gamekit
 <section>
 	<h4><a href="https://github.com/MLayese/MTEC-421">ReadMe</a></h4>
 </section>
+
+<a href="#Portfolio">Work</a> <a href="#Reel">Reel</a> <a href="#About">Me</a>
