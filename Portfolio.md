@@ -39,8 +39,8 @@ title: Portfolio
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/TeleAbsence.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4><a href="#synth">TeleAbsence</a></h4>
-	<blockquote> Replicate voice via one shot or zero shot constructions and creates modifications with adjustable parameters. 
+	<h4>TeleAbsence</h4>
+	<blockquote> Replicate voice via one shot or zero shot constructions and creates modifications with adjustable parameters. Made for MIT's Media Lab.
 	</blockquote>
 </section>
 
