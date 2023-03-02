@@ -31,4 +31,5 @@ We will capture biometric data in a non-invasive way by using a Galvanic Skin Re
 
 We believe that this study falls into Category 3 (Benign Behavioral Intervention) of the COUHES Exemption guidelines.
 
-  
+
+<a href="#Portfolio">Work</a> <a href="#Reel">Reel</a> <a href="#About">Me</a>
