@@ -23,5 +23,8 @@ title: DreamMachine
 </section>
 
 <section>
-  <h4><a href="https://www.dreammachine.live/">Website</a></h4>
+  <h4><a href="https://www.dreammachine.live/">Dream Machine Website</a></h4>
 </section>
+
+<br>
+<a href="#Portfolio">Work</a> <a href="#Reel">Reel</a> <a href="#About">Me</a>
