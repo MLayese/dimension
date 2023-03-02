@@ -11,7 +11,11 @@ image: me.gif
 
 I'm Myron, a sound enthusiast. My craft centers around the relations of digital and physical realities, utilizing sounds, visuals, and programming to convey my views. 
 
-I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
+I grew up partially blind, so a lot of my early life **was** just noise and shadows. The lack of visuals however wasn't an impairment but rather a medium for creativity. I filled in the gaps, using sounds and tactile sensations as my muse. 
+
+Now, I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. I refined my pallete for sound design here, working within the VR scene. I found myself at home. The virtual world was closer to my childhood reality than reality itself.
+
+Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
 
 <h5 class="major">Games I like</h5>
 For Honor
