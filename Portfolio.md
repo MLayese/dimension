@@ -24,7 +24,7 @@ title: Portfolio
 </section>
 
 <section>
-  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit v2.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4><a href="#gamekit">3D Game Kit</a></h4>
 	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emmiters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only covers Level 1 of the game but more will be released soon. Click on the title for more info.
 	</blockquote>
@@ -34,6 +34,13 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4><a href="#synth">AI Synth</a></h4>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. 
+	</blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/TeleAbsence.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4><a href="#synth">TeleAbsence</a></h4>
+	<blockquote> Replicate voice via one shot or zero shot constructions and creates modifications with adjustable parameters. 
 	</blockquote>
 </section>
 
