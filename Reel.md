@@ -7,3 +7,4 @@ title: Reel
 
 </section>
  
+<a href="#Portfolio">Work</a> and <a href="#about"> Me</a>
