@@ -127,3 +127,6 @@ title: Portfolio
 If you want to see the code for everything please click <a href="https://scratch.mit.edu/projects/484757186/editor/">here</a>. </blockquote>
 </section>
 
+
+
+<a href="#Reel">Reel</a> and <a href="#about"> Me</a>
