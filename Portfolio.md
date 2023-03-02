@@ -53,7 +53,7 @@ title: Portfolio
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Warframe Trailer Sound Redesign.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>Warframe: Official Conematic Trailer</h4>					
+	<h4>Warframe: Official Cinematic Trailer</h4>					
 	<blockquote>Redesign for Warframe's new intro. I just love this game to a fault.</blockquote>	
 </section>
 
