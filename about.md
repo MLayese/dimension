@@ -22,11 +22,13 @@ For Honor
 <br>
 Fez
 <br>
-Deep Rock Galactic
+Dishonored
 <br>
 Warframe
 <br>
 Dead Space
+<br>
+Fallout NV
 
 <h4 class="major">Contact</h4>
 
