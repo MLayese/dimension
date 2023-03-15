@@ -20,7 +20,7 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StageFright.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>StageFright</h4>
-	<blockquote>VR application built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. NOTE:Still a work in progress, currently using it for research at the MIT Immersion Lab.
+	<blockquote>VR application built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. Still a work in progress, currently using it for research at the MIT Immersion Lab.
 		<br>
 	<a href="#stagefright">MORE INFO</a></blockquote>
 </section>
