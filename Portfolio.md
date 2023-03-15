@@ -39,6 +39,7 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>AI Synth</h4>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. 
+		
 		<a href="#synth">MORE INFO</a>
 	</blockquote>
 </section>
@@ -53,7 +54,8 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Loopmasta.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Dream Machine</h4>
-	<blockquote><a href="#DreamMachine">VR Concert Space</a> made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
+	<blockquote>VR Concert Space made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
+		
 		<a href="#DreamMachine">MORE INFO</a>
 	</blockquote>
 </section>
