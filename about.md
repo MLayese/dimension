@@ -15,7 +15,7 @@ I grew up partially blind, so a lot of my early life **was** just noise and shad
 
 Now, I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. I refined my palate for sound design here, working within the VR scene. I found myself at home. The virtual world was closer to my childhood reality than reality itself.
 
-Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurent projects. 
+Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurrent projects. 
 
 <h5 class="major">Games I like</h5>
 For Honor
