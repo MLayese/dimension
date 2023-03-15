@@ -21,15 +21,16 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StageFright.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>StageFright</h4>
 	<blockquote>VR application built to combat performance anxiety. Measures people's biometrics and adjusts the game in response - whether that be decreasing the amount of people in the crowd or just giving you positive affrimations that you're doing lovely. Still a work in progress, currently using it for research at the MIT Immersion Lab.
-		<br>
-	<a href="#stagefright">MORE INFO</a></blockquote>
+		
+	<a href="#stagefright">MORE INFO</a>
+	</blockquote>
 </section>
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>3D Game Kit</h4>
 	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emitters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only covers Level 1 of the game but more will be released soon. Click on the title for more info.
-		<br>
+	
 		<a href="#gamekit">MORE INFO</a>
 	</blockquote>
 </section>
@@ -38,7 +39,6 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/AI Synth DecBuild.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>AI Synth</h4>
 	<blockquote>Undergrad Thesis Project that uses Machine Learning Models from Magenta to create music in response to what you do. I used the Helm Plugin by Matt Tytel and created presets for the synthesizers. 
-		<br>
 		<a href="#synth">MORE INFO</a>
 	</blockquote>
 </section>
@@ -54,7 +54,6 @@ title: Portfolio
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Loopmasta.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Dream Machine</h4>
 	<blockquote><a href="#DreamMachine">VR Concert Space</a> made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
-		<br>
 		<a href="#DreamMachine">MORE INFO</a>
 	</blockquote>
 </section>
