@@ -31,8 +31,6 @@ title: Portfolio
 	<h4>Animalese</h4>
 	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played!
 		
-		<a href="#synth">MORE INFO</a>
-	</blockquote>
 </section>
 
 <section>
@@ -65,8 +63,6 @@ title: Portfolio
 	<h4>Crash Bandicoot:TimeTwister</h4>
 	<blockquote>UE 4 Audio implementation for a Crash Bandicoot Remake! All the sound systems were built using blueprints.
 	
-		<a href="#gamekit">MORE INFO</a>
-	</blockquote>
 </section>
 
 <section>
@@ -83,8 +79,6 @@ title: Portfolio
 	<h4>Spider Man 2</h4>
 	<blockquote>Redesigned a portion of the Spider Man 2 4k PS5 gameplay trailer.
 	
-		<a href="#gamekit">MORE INFO</a>
-	</blockquote>
 </section>
 
 <section>
@@ -92,8 +86,6 @@ title: Portfolio
 	<h4>Star Wars VII</h4>
 	<blockquote>StarWars Episode VII Xwing Redesign! One of the coolest ones I've done 
 	
-		<a href="#gamekit">MORE INFO</a>
-	</blockquote>
 </section>
 
 <section>
@@ -101,8 +93,6 @@ title: Portfolio
 	<h4>Bioshock</h4>
 	<blockquote>Bioshock redesigned that shows off mostly UI and ambient sounds
 	
-		<a href="#gamekit">MORE INFO</a>
-	</blockquote>
 </section>
 
 <section>
