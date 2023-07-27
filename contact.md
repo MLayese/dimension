@@ -3,7 +3,7 @@ title: contact
 image: MyronLayese.gif
 ---
 
-Let's hang! You can reach me on Instagram, Github, and LinkedIn. 
+Let's hang! You can reach me on Twitter, Github, and LinkedIn. 
 <br>
 My email's also here for those that want it:
 
