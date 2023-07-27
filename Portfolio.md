@@ -61,9 +61,18 @@ title: Portfolio
 </section>
 
 <section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Crash.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Crash Bandicoot:TimeTwister</h4>
+	<blockquote>UE 4 Audio implementation for a Crash Bandicoot Remake! All the sound systems were built using blueprints.
+	
+		<a href="#gamekit">MORE INFO</a>
+	</blockquote>
+</section>
+
+<section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>3D Game Kit</h4>
-	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emitters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only covers Level 1 of the game but more will be released soon. Click on the title for more info.
+	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emitters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! Click on the title for more info.
 	
 		<a href="#gamekit">MORE INFO</a>
 	</blockquote>
@@ -71,8 +80,26 @@ title: Portfolio
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Spiderman.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>3D Game Kit</h4>
+	<h4>Spider Man 2</h4>
 	<blockquote>Redesigned a portion of the Spider Man 2 4k PS5 gameplay trailer.
+	
+		<a href="#gamekit">MORE INFO</a>
+	</blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StarWars.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Star Wars VII</h4>
+	<blockquote>StarWars Episode VII Xwing Redesign! One of the coolest ones I've done 
+	
+		<a href="#gamekit">MORE INFO</a>
+	</blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Bioshock.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Bioshock</h4>
+	<blockquote>Bioshock redesigned that shows off mostly UI and ambient sounds
 	
 		<a href="#gamekit">MORE INFO</a>
 	</blockquote>
