@@ -9,18 +9,15 @@ image: me.gif
 
 <h4 class="major">Longer</h4>
 
-I'm Myron, a sound enthusiast. My craft centers around the relations of digital and physical realities, utilizing sounds, visuals, and programming to convey my views. 
-
-Now, I'm pursuing a bachelors of Arts in Computer Science at Harvard University and Electronic Production and Design at Berklee College of Music. I refined my palate for sound design here, working within the VR scene. I found myself at home. The virtual world was closer to my childhood reality than reality itself.
-
-Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurrent projects. 
+I'm Myron, a sound enthusiast. My craft centers around the relations of digital and physical realities, utilizing sounds, visuals, and programming to convey my views. I do a lot of stuff using VR and AR and I've been getting into building audio systems for game engines such as Unity and Unreal. 
+Currently, I'm working with MIT's Media and Nano Labs, designing specialized audio systems for two concurrent projects!  
 
 <h5 class="major">Games I like</h5>
 For Honor
 <br>
 Fez
 <br>
-Dishonored
+God of War: Ragnarok
 <br>
 Warframe
 <br>
@@ -28,9 +25,15 @@ Dead Space
 <br>
 Fallout NV
 
+<h5 class="major">Awards and Recognition</h5>
+OZY Genius Award (2022)
+<br>
+AT&T Dream In Black Scholar (2023)
+
+
 <h4 class="major">Contact</h4>
 
-Let's hang! You can reach me on Instagram, Github, and LinkedIn. 
+Let's hang! You can reach me on Twitter, Github, and LinkedIn. 
 <br>
 My email's also here for those that want it; Come say hello
 <br>
