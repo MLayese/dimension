@@ -27,11 +27,11 @@ title: Portfolio
 </section>
 
 <section>
-  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>3D Game Kit</h4>
-	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emitters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only covers Level 1 of the game but more will be released soon. Click on the title for more info.
-	
-		<a href="#gamekit">MORE INFO</a>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Animalese.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Animalese</h4>
+	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played!
+		
+		<a href="#synth">MORE INFO</a>
 	</blockquote>
 </section>
 
@@ -45,6 +45,15 @@ title: Portfolio
 </section>
 
 <section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Loopmasta.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>Dream Machine</h4>
+	<blockquote>VR Concert Space made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
+		
+		<a href="#DreamMachine">MORE INFO</a>
+	</blockquote>
+</section>
+
+<section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/TeleAbsence.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>TeleAbsence</h4>
 	<blockquote> Replicate voice via one shot or zero shot constructions and creates modifications with adjustable parameters. Made for MIT's Media Lab.
@@ -52,11 +61,20 @@ title: Portfolio
 </section>
 
 <section>
-  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Loopmasta.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
-	<h4>Dream Machine</h4>
-	<blockquote>VR Concert Space made at Berklee College of Music! Worked on the development of this project for two years working on sound design, level development, character creation and AI.
-		
-		<a href="#DreamMachine">MORE INFO</a>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/3D Game Kit.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>3D Game Kit</h4>
+	<blockquote>Wwise Implementation for the Unity 3D Game Kit. Made intermittent emitters for a lot of the ambiance, designed the sounds for the monsters, main character, weapons, and music! This demo video only covers Level 1 of the game but more will be released soon. Click on the title for more info.
+	
+		<a href="#gamekit">MORE INFO</a>
+	</blockquote>
+</section>
+
+<section>
+  <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Spiderman.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
+	<h4>3D Game Kit</h4>
+	<blockquote>Redesigned a portion of the Spider Man 2 4k PS5 gameplay trailer.
+	
+		<a href="#gamekit">MORE INFO</a>
 	</blockquote>
 </section>
 
