@@ -29,7 +29,7 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Animalese.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Animalese</h4>
-	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played!
+	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played! </blockquote>
 		
 </section>
 
@@ -61,7 +61,7 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Crash.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Crash Bandicoot:TimeTwister</h4>
-	<blockquote>UE 4 Audio implementation for a Crash Bandicoot Remake! All the sound systems were built using blueprints.
+	<blockquote>UE 4 Audio implementation for a Crash Bandicoot Remake! All the sound systems were built using blueprints.</blockquote>
 	
 </section>
 
@@ -77,21 +77,21 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Spiderman.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Spider Man 2</h4>
-	<blockquote>Redesigned a portion of the Spider Man 2 4k PS5 gameplay trailer.
+	<blockquote>Redesigned a portion of the Spider Man 2 4k PS5 gameplay trailer.</blockquote>
 	
 </section>
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/StarWars.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Star Wars VII</h4>
-	<blockquote>StarWars Episode VII Xwing Redesign! One of the coolest ones I've done 
+	<blockquote>StarWars Episode VII Xwing Redesign! One of the coolest ones I've done </blockquote>
 	
 </section>
 
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Bioshock.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Bioshock</h4>
-	<blockquote>Bioshock redesigned that shows off mostly UI and ambient sounds
+	<blockquote>Bioshock redesigned that shows off mostly UI and ambient sounds</blockquote>
 	
 </section>
 
