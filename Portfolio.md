@@ -29,7 +29,8 @@ title: Portfolio
 <section>
   <video controls autoplay loop muted class="image main" width="520" height="300" source src="assets/images/Animalese.mp4" type="video/mp4" frameborder="0" allowfullscreen></video>
 	<h4>Animalese</h4>
-	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played! </blockquote>
+	<blockquote>Recreation of the Animalese Dialogue System from Animal Crossing. Works by assigning a specific Wwise event to each individual letter and doubles the sample rate at which it's played! 
+	</blockquote>
 		
 </section>
 
